@@ -3,8 +3,6 @@
 
 makine öğrenmesi sınıflandırma yöntemleri kullanılarak oluşturulan proje yüzdelik ifadeler ile eklenen görselin ne olduğu hakkında sayısal ve metinsel ifadeler vermektedir.
 
-The project, which was created using machine learning classification methods, gives numerical and textual expressions about what the added image is with percentage expressions.
-
 
 ![Simulator Screenshot - iPhone 15 Pro - 2023-11-14 at 15 13 36](https://github.com/omerseze/MachineLearningImageClassificationRecognation/assets/91909146/3db8f066-8ba7-4702-b68a-82a21aec9cd0)
 ![Simulator Screenshot - iPhone 15 Pro - 2023-11-14 at 15 13 55](https://github.com/omerseze/MachineLearningImageClassificationRecognation/assets/91909146/03dffe79-22a7-482f-b4db-e44b611a058e)
